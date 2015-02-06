@@ -9,6 +9,7 @@ This plugin can be used to
  * See ExampleUsage.java on how to use this plugin as simple rewriter of your content
 
 # License
+sss
 
 Apache License 2.0
 
